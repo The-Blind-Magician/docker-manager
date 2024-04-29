@@ -1,0 +1,11 @@
+/* Create a color palette with the color codes: primaryLight = #B9D6F2, primaryDark = #061A40, 
+                                                secondaryLight = #006DAA, secondaryDark = #003559 
+                                                alt = #0353A4*/
+
+.palette {
+    --primaryLight: #B9D6F2;
+    --primaryDark: #061A40;
+    --secondaryLight: #006DAA;
+    --secondaryDark: #003559;
+    --alt: #0353A4;
+}
